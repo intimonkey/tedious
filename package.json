@@ -44,7 +44,6 @@
   },
   "scripts": {
     "test": "scripts/tests-unit",
-    "publish": "scripts/build",
-    "postinstall": "scripts/build"
+    "publish": "scripts/build"
   }
 }
